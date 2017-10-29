@@ -1,5 +1,5 @@
 #include<stdio.h>
-
+//插入排序,在逆序数较小的情况下性能很好
 
 void insertionsort(int arr[], int N);
 
